@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationOwnEssay</string>
+    <string name="NotificationChannel">Notification channel</string>
+</resources>
